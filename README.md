@@ -16,6 +16,17 @@ It demonstrates practical implementation of **Generative AI**, structured **Prom
 
 This project was developed as part of the Google Generative AI Intensive Program hosted on Kaggle.
 
+---
+
+## 🎬 Demo Video
+
+Watch the live demo of Content Studio Pro in action below:
+
+👉 **LinkedIn Demo Video:**  
+[https://www.linkedin.com/posts/gnyanprakhash-m-46104b361_generativeai-llm-googleai-ugcPost-7431300036589690880-r24v](https://www.linkedin.com/posts/gnyanprakhash-m-46104b361_generativeai-llm-googleai-ugcPost-7431300036589690880-r24v)
+
+---
+
 ## 📌 Overview
 
 Content Studio Pro enables automated content creation for:
