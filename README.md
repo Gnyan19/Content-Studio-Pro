@@ -280,14 +280,19 @@ This project demonstrates:
 
 ---
 
-## 📄 License
+## 👨‍💻 Author
 
-MIT License
+**Gnyanprakhash M**
+
+- Built with Generative AI 🚀
+- If you found this project helpful, feel free to ⭐ star the repository.
+- 📧 Email: [gnyanprakhash2005@gmail.com](mailto:gnyanprakhash2005@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/gnyanprakhash-m-46104b361](https://www.linkedin.com/in/gnyanprakhash-m-46104b361)
 
 ---
 
-## 👤 Author
+## 📄 License
 
-**Gnyan19**  
-- Built with Generative AI 🚀
-- If you found this project helpful, feel free to ⭐ star the repository.
+MIT License © 2026 Gnyanprakhash M
+
+---
