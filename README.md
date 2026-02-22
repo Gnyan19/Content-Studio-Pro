@@ -6,6 +6,16 @@ It demonstrates practical implementation of **Generative AI**, structured **Prom
 
 ---
 
+## 🏅 Google 5-Day Generative AI Intensive – Completion Badge
+
+<p align="center">
+  <a href="https://www.kaggle.com/certification/badges/gnyanprakhash/96">
+    <img src="assets/kaggle-genai-certificate.png.png" width="650" alt="Google GenAI Intensive Badge">
+  </a>
+</p>
+
+This project was developed as part of the Google Generative AI Intensive Program hosted on Kaggle.
+
 ## 📌 Overview
 
 Content Studio Pro enables automated content creation for:
